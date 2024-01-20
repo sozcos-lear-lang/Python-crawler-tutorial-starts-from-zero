@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-import requests
+import requests  # 通过命令 pip install requests 导入模块
 import json
 
 # 定义请求url
